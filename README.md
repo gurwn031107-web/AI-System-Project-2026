@@ -59,7 +59,7 @@ Python 기초, 머신러닝 기초, CNN, Keras 실습, 라즈베리파이 추론
 |---|---|
 | `mnist_tflite_inference.py` | 라즈베리파이 카메라 영상에서 손글씨 숫자를 TFLite 모델로 실시간 인식 |
 
-## ▶ 실행
+## 실행
 
 - `.ipynb` / `LAB_*.py`: Google Colab에서 실행. 데이터 파일은 각 파일 상단 안내대로 `내 드라이브`에 넣습니다.
 - `mnist_tflite_inference.py`: 라즈베리파이에서 `ai-edge-litert`, `opencv-python` 설치 후 같은 폴더에 `mnist_baseline_model.tflite`를 두고 실행합니다.
